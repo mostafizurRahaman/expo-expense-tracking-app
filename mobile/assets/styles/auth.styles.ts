@@ -8,9 +8,10 @@ export const styles = StyleSheet.create({
       backgroundColor: COLORS.background,
       padding: 20,
       justifyContent: "center",
+      width: "100%",
    },
    illustration: {
-      width: "100%",
+      width: 310,
       height: 310,
       resizeMode: "contain",
    },
